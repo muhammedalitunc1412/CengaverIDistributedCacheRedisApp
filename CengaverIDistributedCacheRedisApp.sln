@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CengaverIDistributedCacheRedisApp.Web", "CengaverIDistributedCacheRedisApp.Web\CengaverIDistributedCacheRedisApp.Web.csproj", "{4F52D900-9387-41FC-90EB-BF72D9FDA51E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F52D900-9387-41FC-90EB-BF72D9FDA51E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F52D900-9387-41FC-90EB-BF72D9FDA51E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F52D900-9387-41FC-90EB-BF72D9FDA51E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F52D900-9387-41FC-90EB-BF72D9FDA51E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B9506F9-21E1-4480-9A6D-91129712CAE8}
+	EndGlobalSection
+EndGlobal
